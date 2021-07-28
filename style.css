@@ -11,3 +11,8 @@ body,html{
 .custom-clr{
     background-color: #E76F51;
 }
+
+/* custom color for text  */
+.custom-txt-clr{
+    color: #E76F51;
+}
