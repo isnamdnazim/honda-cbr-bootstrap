@@ -1,0 +1,13 @@
+/* giveng overflow hidden of html body section  */
+body,html{
+    overflow-x: hidden;
+}
+/* header backgroud color  */
+.header-bg-color{
+    background-color: #264653;
+    
+}
+/* custom color for button and text  */
+.custom-clr{
+    background-color: #E76F51;
+}
