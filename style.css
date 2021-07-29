@@ -16,3 +16,7 @@ body,html{
 .custom-txt-clr{
     color: #E76F51;
 }
+/* image gray scale class  */
+.image-grayscale{
+    filter: grayscale(100%);
+}
